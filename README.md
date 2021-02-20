@@ -1,4 +1,4 @@
-# Google Season Of Docs 2020 for Casbin
+# Google Season Of Docs 2021 for Casbin
 
 ## What is Google Season Of Docs?
 
@@ -10,8 +10,7 @@ The open source projects work with the technical writers to improve the project'
 
 Together, we raise public awareness of open source docs, of technical writing, and of how we can work together to the benefit of the global open source community.
 
-1. Official site: https://developers.google.com/season-of-docs
-2. Announcement: https://opensource.googleblog.com/2020/03/announcing-season-of-docs-2020.html
+Official site: https://developers.google.com/season-of-docs
 
 ## How we select candidates:
 
@@ -26,12 +25,12 @@ The candidate will be more likely selected if he/she:
 
 ## Get started
 
-1. Choose an idea from our list: https://github.com/casbin/SeasonOfDocs2020
+1. Choose an idea from our list: https://github.com/casbin/SeasonOfDocs2021
 2. Send your resume/CV in PDF to: admin@casbin.org
 3. Do a self-introduction in: https://gitter.im/casbin/gsod
 4. Get familiar with the existing code, try to solve opened issues for your chosen idea's repo before & after application deadline.
 5. If you have questions, you can ask the mentor of the idea via GitHub or Gitter.
-6. Submit your proposal in [GSoC official site](https://developers.google.com/season-of-docs). The deadline is July 9th, 2020.
+6. Submit your proposal in [GSoD official site](https://developers.google.com/season-of-docs). The deadline is May 17th, 2021.
 
 ## Ideas
 
