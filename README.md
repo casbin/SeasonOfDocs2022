@@ -89,8 +89,10 @@ We would consider the project successful if, after the publication of the new do
 
 ## Projects
 
-1. [Casbin docs site](https://github.com/casbin/casbin-website) ($4k)
-2. [Casdoor docs site](https://github.com/casdoor/casdoor-website) ($4k)
+Our technical writers have been announced: [Yash Pandey](https://github.com/EmperorYP7) and [Iris Luo](https://github.com/bnuluohf)
+
+1. [Casbin docs site](https://github.com/casbin/casbin-website) ($4k), [Yash Pandey](https://github.com/EmperorYP7)
+2. [Casdoor docs site](https://github.com/casdoor/casdoor-website) ($4k), [Iris Luo](https://github.com/bnuluohf)
 
 > The excess of the budget will be subsidized by the community.
 
